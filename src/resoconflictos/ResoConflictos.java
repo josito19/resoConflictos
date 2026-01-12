@@ -6,6 +6,8 @@ public class ResoConflictos {
 		// Hay que comentar el código
 		System.out.println("Pero yo soy josé iglesias no estudiante 2");
 		
+		
+		
 	}
 
 }
